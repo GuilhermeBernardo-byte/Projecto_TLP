@@ -1,0 +1,64 @@
+*{
+    color: rgb(204, 203, 203);
+}
+body{
+    background-color: rgb(34, 32, 32);
+    justify-content: center;
+    display: flex;
+    
+}
+#desc_dev{
+
+    border: 1px white solid;
+    width: 30%;
+    margin-right: 50%;
+    position: fixed;
+    margin-top: 5%;
+}
+p{
+    text-align: center;
+} 
+
+#main_1{
+    border: 1px white solid;
+    width: 50%;
+    margin-left: 45%;
+}
+img{
+    width: 60%;
+    margin-left: 10%;
+}
+#pro img{
+    width: 45%;
+    margin-left: 10%;
+}
+#pro #calc img{
+    width: 45%;
+    margin-left: 10%;
+}
+
+figure{
+    
+    justify-content: center;
+    display: flex;
+}
+
+#contactos {
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+#projectos ,a{
+    text-align: center;
+}
+#projectos ,#contactos{
+    border: 1px red solid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+li{
+    text-decoration: none;
+    margin-top: 3%;
+
+}
