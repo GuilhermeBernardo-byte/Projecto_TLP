@@ -101,8 +101,9 @@ li {
     list-style: none;
     margin-top: 3%;
 }
-#i{
-    margin-left: 22%
+
+#i {
+    margin-left: 22%;
 }
 
 /* Media query para smartphones */
@@ -119,7 +120,7 @@ li {
         margin-top: 10%;
     }
 
-    img, #pro img, #pro #calc img ,#i{
+    img, #pro img, #pro #calc img, #i {
         width: 100%;
         margin: auto;
         margin-top: 10%;
@@ -144,4 +145,3 @@ li {
         align-items: center;
     }
 }
-
